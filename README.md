@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/copy-this/banner/main/wave-banner.gif" width="50%" alt="Welcome Banner"/>
+<img src="https://raw.githubusercontent.com/copy-this/banner/main/wave-banner.gif" width="100%" alt="Welcome Banner"/>
 
 # Hi there, I'm Anirudh Nagar 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
